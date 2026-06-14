@@ -1,126 +1,129 @@
-# Hi 👋, I'm Mohamed Ali
+# Mohamed Ali
 
-<div align="center">
+```javascript
+const mohamed = {
+  role: "Backend Developer",
+  location: "Egypt",
+  stack: ["Node.js", "Express.js", "MongoDB", "React"],
+  currentFocus: [
+    "System Design",
+    "Scalable APIs",
+    "AI Integration",
+    "Backend Architecture"
+  ],
+  goal: "Building software that solves real business problems"
+};
+```
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="700"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-### Backend Developer | Node.js Engineer | MERN Stack Developer
+## About Me
 
-Building scalable backend systems, APIs, and business solutions.
+I'm a Backend Developer who enjoys turning ideas into real systems.
 
-</div>
+My focus isn't just writing APIs. I enjoy designing application structures, organizing codebases, building authentication systems, optimizing databases, and creating software that can grow with business requirements.
 
----
+Currently, I'm deepening my knowledge in:
 
-## 🚀 About Me
-
-I'm a Backend Developer passionate about building scalable systems and solving real-world business problems.
-
-* 💻 Backend Developer specializing in Node.js & Express.js
-* 🌱 Currently learning System Design, Cloud Computing, and AI Integration
-* 🔐 Experienced in Authentication & Authorization
-* 🏗️ Focused on Clean Architecture and scalable applications
-* 🎯 Working toward becoming a Senior Backend Engineer
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+* Backend Architecture
+* System Design
+* AI-powered Applications
+* Scalable REST APIs
+* Database Design
 
 ---
 
-## 🚀 Featured Projects
+## What I Build
 
-### 🛒 E-Commerce Backend API
+### Authentication Systems
 
 * JWT Authentication
-* Role-Based Authorization
-* Product Management
-* Cart & Order Management
-* Secure REST APIs
+* Role-Based Access Control
+* Refresh Tokens
+* Email Verification
 
-### 🏥 Clinic Appointment System
+### Business Systems
 
-* Appointment Booking
+* Inventory Management
+* POS Systems
+* Appointment Booking Platforms
+* E-Commerce Backends
+
+### API Development
+
+* RESTful APIs
+* Middleware Architecture
+* Error Handling
+* Validation & Security
+
+---
+
+## Current Tech Stack
+
+```text
+Backend     : Node.js, Express.js
+Frontend    : React.js
+Database    : MongoDB, MySQL
+Tools       : Git, GitHub, Postman
+Learning    : System Design, AI, Cloud
+```
+
+---
+
+## Featured Work
+
+### Clinic Appointment System
+
+A complete appointment management platform designed for clinics.
+
+Features:
+
+* Authentication & Authorization
+* Appointment Scheduling
 * Doctor Dashboard
 * Patient Management
-* Notifications Integration
+* API-first Architecture
 
-### 📦 Inventory Management System
+---
 
-* Product Tracking
-* Sales Management
-* Reporting & Analytics
+### E-Commerce Backend
 
-### 📝 Blog Platform API
+Production-ready backend architecture featuring:
 
-* Authentication System
-* Posts & Comments
-* Likes & Reactions
+* Authentication
+* Product Management
+* Orders
+* Cart System
+* Secure API Structure
+
+---
+
+### Blog Platform API
+
+Features:
+
+* Authentication
+* Posts
+* Comments
+* Likes
 * File Uploads
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedali409&show_icons=true&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Mohamedali409\&show_icons=true\&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedali409&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedali409&theme=tokyonight" />
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedali409\&layout=compact\&theme=github_dark)
 
 ---
 
-## 🎯 Current Goals
+## Contact
 
-* Master Backend Engineering
-* Learn Advanced System Design
-* Build Large Scale Applications
-* Explore AI-Powered Applications
-* Improve Problem Solving Skills
+📧 [engmohamedali409@gmail.com](mailto:engmohamedali409@gmail.com)
+
+💻 github.com/Mohamedali409
 
 ---
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Mohamedali409
-* Email: [engmohamedali409@gmail.com](mailto:engmohamedali409@gmail.com)
-* LinkedIn: Add Your LinkedIn Profile
-
----
-
-<div align="center">
-
-### 💡 Build systems that solve real problems.
-
-</div>
+> "Good software is not about writing more code. It's about building the right system."
