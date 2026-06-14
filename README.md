@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Mohamed Ali</h1>
 
 <h3 align="center">Backend Developer • Node.js Engineer • System Builder</h3>
@@ -27,7 +26,7 @@ Building scalable APIs, backend systems, and AI-powered solutions.
 - Passionate about system design and clean architecture  
 - Building real-world business applications  
 - Interested in AI integrations and modern backend solutions  
-- Always improving performance, security, and structure
+- Always improving performance, security, and structure  
 
 ---
 
@@ -108,6 +107,5 @@ Building scalable APIs, backend systems, and AI-powered solutions.
 ---
 
 <p align="center">
-<b>⚡ Building systems that solve real problems.</b>
+⚡ Building systems that solve real problems.
 </p>
-```
