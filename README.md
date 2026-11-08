@@ -1,283 +1,193 @@
-<h1 align="center">Mohamed Ali</h1>
-
-<h3 align="center">
-Full Stack Developer • Backend Engineer • DevOps Enthusiast • AWS Certified Cloud Practitioner
-</h3>
+# Mohamed Ali
+### Backend-Focused Full-Stack Engineer | Cloud & AI Systems
 
 <p align="center">
-Building scalable cloud-native applications, AI-powered systems, and production-ready backend architectures using modern software engineering and DevOps practices.
+  <b>Engineering scalable backends. Designing reliable systems. Building intelligent applications.</b>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"/>
-</p>
-
----
-
-# 🚀 About Me
-
-I'm a passionate **Full Stack Developer** with a strong focus on **Backend Engineering, Cloud Computing, and DevOps**.
-
-I enjoy building scalable systems that solve real-world problems, especially in healthcare, AI, and business automation. I love designing clean architectures, cloud-native applications, and production-ready infrastructures.
-
-Currently, I'm a **Software Developer Trainee at DigiLians (MCIT)**, expanding my expertise in AI-powered software development, cloud technologies, and DevOps.
-
----
-
-# 🏆 Certifications
-
-- 🥇 AWS Certified Cloud Practitioner
-- 🎓 DigiLians AI Powered Software Development Program (MCIT)
-
----
-
-# ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,mysql,redis,docker,kubernetes,terraform,aws,linux,git,github,githubactions,postman,vscode" />
-
+  <a href="https://github.com/Mohamedali409">
+    <img src="https://img.shields.io/badge/GitHub-Mohamedali409-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/mohamedali409">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:engmohamedali409@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💻 Backend Development
+## `01` / Engineering Profile
 
-- Node.js
-- Express.js
-- RESTful APIs
-- Authentication & Authorization
-- JWT
-- Google OAuth
-- RBAC
-- Socket.io
-- WebRTC
-- BullMQ
-- Redis
-- Cloudinary
-- Nodemailer
-- PDF Generation
-- API Security
-- Clean Architecture
+I'm a Software Engineer focused on **Backend Engineering, Full-Stack Development, Cloud Infrastructure, and AI-powered systems**.
+
+I build beyond endpoints — designing modular architectures, secure APIs, real-time services, data workflows, and deployment pipelines.
+
+**Core engineering interests:**
+- Backend architecture & scalable REST APIs
+- Authentication, authorization & application security
+- Distributed services, caching & background processing
+- Cloud infrastructure & DevOps automation
+- AI integration, RAG & vector search
+
+🎓 Completed a 9-month AI-Powered Software Development diploma through **DigiLians – Digital Pioneers**, in collaboration with MCIT and the Egyptian Military Academy.
 
 ---
 
-# ☁️ Cloud & DevOps
+## `02` / Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,mongodb,postgres,mysql,redis,docker,kubernetes,terraform,aws,linux,nginx,githubactions,git,github,postman&perline=10"/>
+</p>
+
+| Domain | Technologies & Engineering Practices |
+|---|---|
+| Backend | Node.js, Express.js, REST APIs, JWT, OAuth, RBAC |
+| Frontend | React, Next.js, TypeScript |
+| Databases | MongoDB, PostgreSQL, MySQL, Redis |
+| Real-Time | Socket.IO, WebRTC |
+| Processing | BullMQ, Background Jobs, Caching |
+| AI Engineering | RAG, LLM Integration, Embeddings, Qdrant, Vector Search |
+| Cloud & DevOps | AWS, Docker, Kubernetes, Terraform, Linux |
+| CI/CD | GitHub Actions, Automated Testing, Deployment Pipelines |
+| Observability | Prometheus, Grafana, Logging & Metrics |
+
+---
+
+## `03` / Selected Engineering Projects
+
+### 🏥 Avicena — AI-Powered Healthcare Platform
+
+**Healthcare SaaS | Backend Engineering | AI Integration**
+
+A multi-role healthcare ecosystem connecting patients, doctors, laboratories, and administrators.
+
+**Engineering highlights**
+- Modular backend with Node.js and Express.
+- Secure authentication and role-based access control.
+- Real-time communication using Socket.IO and WebRTC.
+- Redis caching and TTL-based data management.
+- Background processing with BullMQ.
+- Medical report intelligence using RAG and Qdrant.
+- Payment integrations and cloud-ready containerized architecture.
+
+**Stack:** Node.js · Express · MongoDB · Redis · BullMQ · Qdrant · Docker · Next.js · TypeScript
+
+[↗ Explore Repository](https://github.com/Mohamedali409/avicena-platform)
+
+---
+
+### 🛡️ ImpersonaGuard — Digital Fortress
+
+**Application Security | Backend Architecture**
+
+A security-focused backend system designed around modular architecture and risk assessment workflows.
+
+**Engineering highlights**
+- Express modular monolith architecture.
+- MongoDB integration.
+- JWT-based authentication.
+- Secure cookie and session handling.
+- Helmet and CORS security configuration.
+- Modular routing and separation of concerns.
+- Vitest-based automated testing.
+
+**Stack:** Node.js · Express · MongoDB · JWT · Helmet · CORS · Vitest
+
+[↗ Explore Repository](https://github.com/Madoo2414/ImpersonaGuard-)
+
+---
+
+### 🤖 FitMate AI — Intelligent Fitness Platform
+
+**Personal Project | AI Integration | Full-Stack Engineering**
+
+An AI-assisted fitness application combining nutrition tracking, workout management, and personalized coaching.
+
+**Engineering focus**
+- Modular application architecture.
+- Nutrition and food catalog management.
+- Workout and exercise tracking.
+- AI Coach integration through a controlled adapter.
+- Bilingual experience with Arabic RTL and English LTR.
+- Structured backend/frontend development with testing and type safety.
+
+**Stack:** TypeScript · React · Node.js · AI Integration · Database Engineering
+
+[↗ Explore Repository](https://github.com/Mohamedali409/FitMate-AI)
+
+---
+
+### 🍽️ Restaurant POS & Inventory Management
+
+**Business Systems | Backend Engineering | CI/CD**
+
+A restaurant management solution focused on operational workflows and inventory control.
+
+**Engineering highlights**
+- Sales and inventory management.
+- Ingredient and stock tracking.
+- Daily reporting.
+- Automated testing.
+- GitHub Actions CI/CD workflows.
+
+**Stack:** Node.js · Express · MongoDB · Jest · Supertest · GitHub Actions
+
+[↗ Explore Repository](https://github.com/Mohamedali409/restaurant-pos-inventory-system)
+
+---
+
+## `04` / Cloud & Infrastructure
+
+Engineering reliable deployment environments and understanding the infrastructure behind modern applications.
+
+- AWS: IAM, EC2, S3, Lambda, VPC, CloudWatch, CloudTrail, SQS, SNS.
+- Containerization: Docker & Docker Compose.
+- Orchestration: Kubernetes.
+- Infrastructure as Code: Terraform.
+- Automation: GitHub Actions & CI/CD.
+- Systems: Linux & Nginx.
+
+## `05` / Certifications & Professional Development
 
 - AWS Certified Cloud Practitioner
-- Docker
-- Docker Compose
-- Kubernetes
-- Terraform
-- GitHub Actions CI/CD
-- Linux
-- Nginx
-- AWS IAM
-- AWS EC2
-- AWS S3
-- AWS Lambda
-- AWS VPC
-- AWS CloudWatch
-- AWS CloudTrail
-- AWS SNS
-- AWS SQS
-- AWS Auto Scaling
-- Elastic Load Balancing (ELB)
-- Infrastructure as Code (IaC)
-- Production Deployment
+- AWS Certified Developer – Associate
+- DigiLians – AI-Powered Software Development Diploma (MCIT)
 
 ---
 
-# 🤖 AI Engineering
+## `06` / Engineering Focus
 
-- Retrieval-Augmented Generation (RAG)
-- Google Gemini API
-- AI Agents
-- Embeddings
-- Vector Search
-- Qdrant
-- Supabase pgvector
-- LLM Integrations
-- n8n Automation
+Currently deepening my expertise in:
 
----
-
-# 📊 Monitoring & Observability
-
-- Prometheus
-- Grafana
-- Logging
-- Performance Monitoring
-- Metrics Collection
+- Advanced Backend Engineering & System Design
+- PostgreSQL & Database Optimization
+- Distributed Systems & Real-Time Architecture
+- AWS Application Development
+- Kubernetes & Infrastructure Automation
+- Application Security & DevSecOps
 
 ---
 
-# 🚀 What I Build
-
-- Production-ready REST APIs
-- Enterprise Backend Systems
-- Cloud-native Applications
-- AI-powered Systems
-- Healthcare SaaS Platforms
-- Authentication Systems
-- Real-time Chat Applications
-- Video Calling Platforms
-- Booking Systems
-- E-Commerce Platforms
-- POS & Inventory Systems
-- Dockerized Applications
-- Kubernetes Deployments
-- CI/CD Pipelines
-- Infrastructure Automation
-- Scalable Distributed Systems
-
----
-
-# 📌 Featured Projects
-
----
-
-## 🏥 Avicena — AI Healthcare SaaS Platform
-
-A modern healthcare platform connecting patients, doctors, laboratories, and administrators in one scalable ecosystem.
-
-### Features
-
-- Appointment Booking System
-- Medical Consultation Platform
-- Real-time Chat (Socket.io)
-- WebRTC Video Calls
-- Medical Report Management
-- PDF Report Generation
-- Email Notifications
-- Redis Caching
-- BullMQ Background Jobs
-- AI Medical Assistant (RAG)
-- Vector Search with Qdrant
-- Dockerized Infrastructure
-- Secure Authentication
-- Role-Based Access Control
-- Doctor Approval Workflow
-
-### Tech Stack
-
-Node.js • Express.js • MongoDB • Redis • BullMQ • Socket.io • WebRTC • Docker • Cloudinary • Nodemailer • JWT • Qdrant • RAG
-
-🔗 Repository
-
-https://github.com/Mohamedali409/avicena-platform
-
----
-
-## 🛒 E-Commerce Backend API
-
-A scalable backend powering a complete online shopping platform.
-
-### Features
-
-- Product Management
-- Categories
-- Shopping Cart
-- Orders
-- Inventory Management
-- Authentication
-- Authorization
-- Secure REST API
-- Input Validation
-
-### Tech Stack
-
-Node.js • Express • MongoDB • JWT • Redis
-
-🔗 Repository
-
-https://github.com/Mohamedali409
-
----
-
-## 🍽 Restaurant POS & Inventory Management
-
-A production-oriented POS and inventory management solution.
-
-### Features
-
-- Sales Management
-- Inventory Tracking
-- Daily Reports
-- Stock Management
-- Ingredient Tracking
-- GitHub Actions CI/CD
-- Automated Testing
-
-### Tech Stack
-
-Node.js • Express • MongoDB • GitHub Actions • Jest • Supertest
-
-🔗 Repository
-
-https://github.com/Mohamedali409/restaurant-pos-inventory-system
-
----
-
-# 📈 GitHub Stats
+## `07` / GitHub Activity
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedali409&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedali409&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedali409&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedali409&layout=compact&theme=tokyonight" height="180"/>
-
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedali409&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedali409&theme=tokyonight"/>
-
+  <b>Build with purpose. Engineer with precision. Scale with confidence.</b>
 </p>
 
----
-
-# 🎯 Current Focus
-
-- Cloud-native Application Development
-- AI Healthcare Systems
-- DevOps Engineering
-- Kubernetes
-- Terraform
-- Infrastructure as Code
-- Scalable Backend Architecture
-- Distributed Systems
-- AWS Developer Associate Certification
-- Advanced System Design
-
----
-
-# 📫 Connect With Me
-
 <p align="center">
-
-<a href="https://github.com/Mohamedali409">
-<img src="https://img.shields.io/badge/GitHub-Mohamedali409-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:engmohamedali409@gmail.com">
-<img src="https://img.shields.io/badge/Email-engmohamedali409@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mohamedali409">
-<img src="https://img.shields.io/badge/LinkedIn-mohamedali409-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+  <i>Turning complex engineering challenges into practical software solutions.</i>
 </p>
-
----
-
-<h3 align="center">
-
-🚀 Building scalable software, cloud infrastructure, and AI-powered solutions that solve real-world problems.
-
-</h3>
